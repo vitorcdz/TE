@@ -4,7 +4,7 @@ Rafael de Morais Kataoka
 - Criei a Chave e Clonei o repositorio fiz git pull apos o commit de vitorhugo e adicionei o algoritmo de subtração e divisão.
 
 
-## Comandos utilizados
+## Comandos utilizados pelo Rafael
 
 rafae@AnonymousVS MINGW64 ~
 $ rm -f ~/.ssh/id_rsa*
