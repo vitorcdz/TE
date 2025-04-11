@@ -3,7 +3,7 @@
 Rafael de Morais Kataoka
 - Criei a Chave e Clonei o repositorio fiz git pull apos o commit de vitorhugo e adicionei o algoritmo de subtração e divisão.
 
-Rafael de Morais Kataoka
+Vitor Hugo Cardozo de Abreu
 - Criei a Chave e Clonei o repositorio e adicionei o algoritmo de subtração e divisão.
 
 
