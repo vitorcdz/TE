@@ -8,11 +8,11 @@ programa {
     leia(n1)
     escreva("Digite um numero: ")
     leia(n2)
-    escreva("Subrtração:",n1 - n2, " e Divisão:", n1/n2)
+    escreva("Subrtração:",n1 - n2, "\nDivisão:", n1/n2)
     
 
     inteiro n1,n2
-      escreva("Digite um número : ")
+      escreva("\nDigite um número : ")
       leia(n1)
       escreva("Digite um número para ser somado: ")
       leia(n2)
