@@ -11,7 +11,7 @@ Rafael de Morais Kataoka
 - Criei a Chave e Clonei o repositorio fiz git pull apos o commit de vitorhugo e adicionei o algoritmo de subtração e divisão.
 
 Vitor Hugo Cardozo de Abreu
-- Criei a Chave e Clonei o repositorio e adicionei o algoritmo de subtração e divisão.
+- Criei um novo repositório público chamado "TE" após isso criei a chave SSH, clonei o repositorio e adicionei o algoritmo de subtração e divisão.
 
 
 Comandos de Vitor Hugo Cardozo de Abreu:
