@@ -1,0 +1,100 @@
+{
+  "DLSVersion": "2.1.6",
+  "Name": "NOT",
+  "NameLocation": 0,
+  "ChipType": 0,
+  "Size": {
+    "x": 0.90833,
+    "y": 0.375
+  },
+  "Colour": {
+    "r": 1.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 1
+  },
+  "InputPins":[
+    {
+      "Name":"Entrada",
+      "ID":2097303774,
+      "Position":{
+        "x":-0.75,
+        "y":0.6875
+      },
+      "BitCount":1,
+      "Colour":4,
+      "ValueDisplayMode":0
+    }
+  ],
+  "OutputPins":[
+    {
+      "Name":"Saida",
+      "ID":1199209772,
+      "Position":{
+        "x":3.72837,
+        "y":0.6875
+      },
+      "BitCount":1,
+      "Colour":0,
+      "ValueDisplayMode":0
+    }
+  ],
+  "SubChips":[
+    {
+      "Name":"NAND",
+      "ID":957543922,
+      "Label":"",
+      "Position":{
+        "x":1.25358,
+        "y":0.76057
+      },
+      "OutputPinColourInfo":[{"PinColour":4,"PinID":2}],
+      "InternalData":null
+    }
+  ],
+  "Wires":[
+    {
+      "SourcePinAddress":{
+        "PinID":0,
+        "PinOwnerID":2097303774
+      },
+      "TargetPinAddress":{
+        "PinID":0,
+        "PinOwnerID":957543922
+      },
+      "ConnectionType":0,
+      "ConnectedWireIndex":-1,
+      "ConnectedWireSegmentIndex":-1,
+      "Points":[{"x":0.0,"y":0.0},{"x":0.0,"y":0.8125},{"x":0.0,"y":0.0}]
+    },
+    {
+      "SourcePinAddress":{
+        "PinID":0,
+        "PinOwnerID":2097303774
+      },
+      "TargetPinAddress":{
+        "PinID":1,
+        "PinOwnerID":957543922
+      },
+      "ConnectionType":0,
+      "ConnectedWireIndex":-1,
+      "ConnectedWireSegmentIndex":-1,
+      "Points":[{"x":0.0,"y":0.0},{"x":0.0,"y":0.5625},{"x":0.0,"y":0.0}]
+    },
+    {
+      "SourcePinAddress":{
+        "PinID":2,
+        "PinOwnerID":957543922
+      },
+      "TargetPinAddress":{
+        "PinID":0,
+        "PinOwnerID":1199209772
+      },
+      "ConnectionType":0,
+      "ConnectedWireIndex":-1,
+      "ConnectedWireSegmentIndex":-1,
+      "Points":[{"x":0.0,"y":0.0},{"x":0.0,"y":0.0}]
+    }
+  ],
+  "Displays":[]
+}

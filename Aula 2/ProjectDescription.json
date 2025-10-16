@@ -1,0 +1,170 @@
+{
+  "ProjectName": "Aula 2",
+  "DLSVersion_LastSaved": "2.1.4",
+  "DLSVersion_EarliestCompatible": "2.0.0",
+  "CreationTime": "2025-04-30T21:47:25.706-03:00",
+  "LastSaveTime": "2025-10-16T20:11:23.642-03:00",
+  "Prefs_MainPinNamesDisplayMode": 1,
+  "Prefs_ChipPinNamesDisplayMode": 1,
+  "Prefs_GridDisplayMode": 0,
+  "Prefs_Snapping": 0,
+  "Prefs_StraightWires": 0,
+  "Prefs_SimPaused": false,
+  "Prefs_SimTargetStepsPerSecond": 1000,
+  "Prefs_SimStepsPerClockTick": 250,
+  "AllCustomChipNames":[
+    "NOT",
+    "AND",
+    "OR",
+    "NOR",
+    "Xor",
+    "Xnor",
+    "half adder",
+    "Full Adder",
+    "4-bit-adder",
+    "Inverter",
+    "soma e sub",
+    "4-Mux",
+    "4 - or",
+    "3-and",
+    "8-or",
+    "mul",
+    "4-and",
+    "8-Mux",
+    "4-Demux",
+    "alu",
+    "D FlipFlop",
+    "MEM-1",
+    "Decoder",
+    "Decoder 2-4",
+    "4x4"
+  ],
+  "StarredList":[
+    {
+      "Name":"IN/OUT",
+      "IsCollection":true
+    },
+    {
+      "Name":"Iniciais",
+      "IsCollection":true
+    },
+    {
+      "Name":"half adder",
+      "IsCollection":false
+    },
+    {
+      "Name":"Full Adder",
+      "IsCollection":false
+    },
+    {
+      "Name":"4-bit-adder",
+      "IsCollection":false
+    },
+    {
+      "Name":"MERGE/SPLIT",
+      "IsCollection":true
+    },
+    {
+      "Name":"Inverter",
+      "IsCollection":false
+    },
+    {
+      "Name":"soma e sub",
+      "IsCollection":false
+    },
+    {
+      "Name":"BUS",
+      "IsCollection":true
+    },
+    {
+      "Name":"4-Mux",
+      "IsCollection":false
+    },
+    {
+      "Name":"4 - or",
+      "IsCollection":false
+    },
+    {
+      "Name":"3-and",
+      "IsCollection":false
+    },
+    {
+      "Name":"8-or",
+      "IsCollection":false
+    },
+    {
+      "Name":"4-and",
+      "IsCollection":false
+    },
+    {
+      "Name":"8-Mux",
+      "IsCollection":false
+    },
+    {
+      "Name":"4-Demux",
+      "IsCollection":false
+    },
+    {
+      "Name":"D FlipFlop",
+      "IsCollection":false
+    },
+    {
+      "Name":"MEM-1",
+      "IsCollection":false
+    },
+    {
+      "Name":"Decoder",
+      "IsCollection":false
+    },
+    {
+      "Name":"Decoder 2-4",
+      "IsCollection":false
+    },
+    {
+      "Name":"4x4",
+      "IsCollection":false
+    }
+  ],
+  "ChipCollections":[
+    {
+      "Chips":["CLOCK","PULSE","KEY","3-STATE BUFFER"],
+      "IsToggledOpen":true,
+      "Name":"BASIC"
+    },
+    {
+      "Chips":["IN-1","IN-4","IN-8","OUT-1","OUT-4","OUT-8"],
+      "IsToggledOpen":false,
+      "Name":"IN/OUT"
+    },
+    {
+      "Chips":["1-4BIT","1-8BIT","4-8BIT","4-1BIT","8-4BIT","8-1BIT"],
+      "IsToggledOpen":true,
+      "Name":"MERGE/SPLIT"
+    },
+    {
+      "Chips":["BUS-1","BUS-4","BUS-8"],
+      "IsToggledOpen":true,
+      "Name":"BUS"
+    },
+    {
+      "Chips":["7-SEGMENT","DOT DISPLAY","RGB DISPLAY","LED"],
+      "IsToggledOpen":false,
+      "Name":"DISPLAY"
+    },
+    {
+      "Chips":["ROM 256×16"],
+      "IsToggledOpen":false,
+      "Name":"MEMORY"
+    },
+    {
+      "Chips":["BUZZER","half adder","Full Adder","4-bit-adder","Inverter","soma e sub","4-Mux","4 - or","3-and","8-or","mul","4-and","8-Mux","4-Demux","alu"],
+      "IsToggledOpen":true,
+      "Name":"OTHER"
+    },
+    {
+      "Chips":["Xnor","Xor","NOR","OR","AND","NOT","NAND"],
+      "IsToggledOpen":true,
+      "Name":"Iniciais"
+    }
+  ]
+}
